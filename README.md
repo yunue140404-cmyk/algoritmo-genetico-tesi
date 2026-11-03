@@ -8,4 +8,4 @@ Evaluación 2do parcial · Algoritmos Evolutivos · TESI
 4. Experimentos: python experimentos.py
 
 ## Integrantes
-- Yunuem 1 · Damaris 2 · Gael 3 · Libni 4
+- Yunuem 1 · Damaris 2 · Gael 3 · Libni 4· Arely 5
