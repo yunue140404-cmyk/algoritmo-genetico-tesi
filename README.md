@@ -8,4 +8,4 @@ Evaluación 2do parcial · Algoritmos Evolutivos · TESI
 4. `python experimentos.py` (genera `funcion.png`, `conv_configs.png`, `diversidad.png` y `resultados.json`)
 
 ## Integrantes
-- Nombre 1 · Nombre 2 · Nombre 3 · Nombre 4
+- Yunuem 1 · Damaris 2 · Gael 3 · Libni 4· Arely 5
