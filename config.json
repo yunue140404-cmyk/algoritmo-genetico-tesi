@@ -1,0 +1,12 @@
+{
+  "tam_poblacion": 50,
+  "generaciones": 100,
+  "prob_cruce": 0.8,
+  "prob_mutacion": 0.1,
+  "semilla": 42,
+  "limite_inferior": -1.0,
+  "limite_superior": 2.0,
+  "k_torneo": 3,
+  "sigma_mutacion": 0.1,
+  "elitismo": 1
+}
